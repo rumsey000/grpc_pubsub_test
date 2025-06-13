@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhello_proto.a CMakeFiles/hello_proto.dir/hello.pb.cc.o
+/usr/bin/ranlib libhello_proto.a
